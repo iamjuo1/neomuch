@@ -1,0 +1,5 @@
+--style=allman
+--indent=tab
+--keep-one-line-blocks
+--keep-one-line-statements
+--pad-oper
